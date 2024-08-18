@@ -1,5 +1,5 @@
 # CyLink
-_"**Password Control**"_
+_"**Cylink-PWManager**"_
 
 A simple password manager and password generator with an easy-to-use GUI. <br/>
 
